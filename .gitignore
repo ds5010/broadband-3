@@ -1,0 +1,14 @@
+#File extensions to ignore
+*.csv
+*.gz
+*.zip
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.json
+*.txt
+
+#Mac clean-up
+*.ds_store
